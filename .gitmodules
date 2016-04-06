@@ -1,0 +1,3 @@
+[submodule "DXTC"]
+	path = DXTC
+	url = https://github.com/Saladfork4/DXTC.git
